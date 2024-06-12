@@ -1,0 +1,6 @@
+address: https://test-stand.gb.ru/api/posts
+address_1: https://test-stand.gb.ru/gateway/login
+browser: chrome
+sleep_time: 2
+username: Galindaro
+password: 5ba4a0fa6e
